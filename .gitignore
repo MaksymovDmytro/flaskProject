@@ -1,0 +1,19 @@
+# Pycharm
+.idea/
+
+#DB files
+*.db
+
+# build
+*.egg
+*.egg-info/
+
+# Virtual environment
+venv
+
+.flaskenv
+*.pyc
+*.pyo
+
+.DS_Store
+
